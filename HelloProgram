@@ -3,7 +3,7 @@
 void main()
 {
   cout<<"Sample Hello Program";
-  cout<<"Manisha's Line: ";
+  cout<<"Manisha's Line:Have a nice day ";
   cout<<"Pratiksha's Line:";
   cout<<"Mona's Line:";
   cout<<"Gopal's Line: Hello To Every One... Good Morning To All";
